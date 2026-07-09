@@ -134,8 +134,8 @@ $ cat profile.json
 ╚═══════════════════════════════════╝
 ```
 
-**( : ㋡ : )**
+**( : :㋡ :: )**
 
-*Building digital galaxies — one commit at a time.*
+*Building digital galaxies — one commit at a time .*
 
 </div>
