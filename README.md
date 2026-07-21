@@ -129,7 +129,7 @@ $ cat profile.json
 ```
 ╔═══════════════════════════════════╗
 ║   "First, solve the problem.      ║
-║    Then, write the code."         ║
+║    Then, write the code.."         ║
 ╚═══════════════════════════════════╝
 ```
 
