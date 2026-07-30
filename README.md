@@ -2,12 +2,12 @@
 
 ```text
 
-__     ___ _                           
+ __      ___ _                           
 \ \   / (_) |__   __ _ _ __   __ _  __ _ 
  \ \ / /| | '_ \ / _` | '_ \ / _` |/ _` |
   \ V / | | | | | (_| | | | | (_| | (_| |
    \_/  |_|_| |_|\__,_|_| |_|\__, |\__,_|
-                        |___/
+                         |___/
 
  ____  _ _                     
 |  _ \(_) |___  __ _ _ __ __ _ 
@@ -28,7 +28,7 @@ __     ___ _
 <br/>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vihangadilzara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vihanga_dilzara) [![LinkedIn](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vdilsara30@gmail.com)[![Email]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vihangadilzara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vihanga_dilzara) [![LinkedIn](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vdilsara30@gmail.com)
 
 
 </div>
@@ -57,5 +57,4 @@ $ whoami<br>> vihangadilsara<br><br>$ cat profile.json<br>{<br>  "location"    :
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=vihangadilsara&icon=0&color=0)](https://visitcount.itsvg.in)
+
