@@ -6,7 +6,7 @@
  \ \ / /| | '_ \ / _` | '_ \ / _` |/ _` |
   \ V / | | | | | (_| | | | | (_| | (_| |
    \_/  |_|_| |_|\__,_|_| |_|\__, |\__,_|
-                          |___/
+                           |___/
 
  ____  _ _                     
 |  _ \(_) |___  __ _ _ __ __ _ 
@@ -84,13 +84,13 @@ $ cat profile.json
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> &nbsp; **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vihangadilsara &show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username= vihangadilsara &show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihangadilsara &langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username= vihangadilsara &langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangadilsara&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user= vihangadilsara &theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
 </div>
 
 <div align="center">
@@ -98,9 +98,8 @@ $ cat profile.json
 </div>
 
 ---
-<div align="center">
 
-```
+<div align="center">
 ╔═══════════════════════════════════╗
 ║   "First, solve the problem.      ║
 ║    Then, write the code."         ║
