@@ -6,7 +6,7 @@
  \ \ / /| | '_ \ / _` | '_ \ / _` |/ _` |
   \ V / | | | | | (_| | | | | (_| | (_| |
    \_/  |_|_| |_|\__,_|_| |_|\__, |\__,_|
-                           |___/
+                         |___/
 
  ____  _ _                     
 |  _ \(_) |___  __ _ _ __ __ _ 
@@ -90,7 +90,7 @@ $ cat profile.json
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangadilsara&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangadilsara&theme=dark&hide_border=true &background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
 </div>
 
 <div align="center">
