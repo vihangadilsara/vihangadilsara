@@ -89,14 +89,12 @@ $ cat profile.json
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihangadilsara&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
 </div>
 
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga
-   dilsara&theme=dark&hide_border=true &background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangadilsara&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vihangadilsara&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihangadilsara&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
