@@ -84,7 +84,7 @@ $ cat profile.json
  **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vihangadilsara&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" height="170"/>
+ 
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihangadilsara&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
 </div>
