@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+
  __      ___ _                           
 \ \   / (_) |__   __ _ _ __   __ _  __ _ 
  \ \ / /| | '_ \ / _` | '_ \ / _` |/ _` |
@@ -14,7 +14,7 @@
 | |_| | | \__ \ (_| | | | (_| |
 |____/|_|_|___/\__,_|_|  \__,_|
      
-```
+
 
 **`Full-Stack Developer · Code Commander`**
 
@@ -49,7 +49,7 @@ $ cat profile.json
 }
 ```
 
----
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> &nbsp; **Tech Arsenal**
 
@@ -104,7 +104,6 @@ $ cat profile.json
 ║   "First, solve the problem.      ║
 ║    Then, write the code."         ║
 ╚═══════════════════════════════════╝
-```
 *Building digital galaxies — one commit at a time.*
 
 </div>
